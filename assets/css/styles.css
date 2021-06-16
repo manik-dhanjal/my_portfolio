@@ -540,7 +540,8 @@ section {
   margin: 0 auto 1em;
   width: 11em;
 }
-.coming_content .line_separator svg {
+.coming_content .line_separator img {
+    color:white;
   width: 30px;
   height: 20px;
 }
